@@ -214,3 +214,6 @@ scikit-learn
 #pip freeze > rv.txt
 
 tabulate
+
+# to gain access to the repo for the data
+ucimlrepo
