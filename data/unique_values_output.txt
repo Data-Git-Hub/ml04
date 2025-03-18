@@ -1,0 +1,211 @@
+
+Column: eat (3 unique values)
+- EDIBLE
+- POISONOUS
+- ----------------------------------------------------------------------
+--------------------------------------------------
+
+Column: cap_shape (7 unique values)
+- CONVEX
+- FLAT
+- BELL
+- SUNKEN
+- KNOBBED
+- CONICAL
+- nan
+--------------------------------------------------
+
+Column: cap_surface (5 unique values)
+- SMOOTH
+- FIBROUS
+- SCALY
+- GROOVES
+- nan
+--------------------------------------------------
+
+Column: cap_color (11 unique values)
+- WHITE
+- YELLOW
+- BROWN
+- GRAY
+- RED
+- PINK
+- PURPLE
+- GREEN
+- BUFF
+- CINNAMON
+- nan
+--------------------------------------------------
+
+Column: bruise (3 unique values)
+- BRUISES
+- NO
+- nan
+--------------------------------------------------
+
+Column: odor (10 unique values)
+- ALMOND
+- ANISE
+- NONE
+- PUNGENT
+- CREOSOTE
+- FOUL
+- FISHY
+- SPICY
+- MUSTY
+- nan
+--------------------------------------------------
+
+Column: gill_attached (3 unique values)
+- FREE
+- ATTACHED
+- nan
+--------------------------------------------------
+
+Column: gill_space (3 unique values)
+- CROWDED
+- CLOSE
+- nan
+--------------------------------------------------
+
+Column: gill_size (3 unique values)
+- NARROW
+- BROAD
+- nan
+--------------------------------------------------
+
+Column: gill_color (13 unique values)
+- WHITE
+- PINK
+- BROWN
+- GRAY
+- BLACK
+- CHOCOLATE
+- PURPLE
+- GREEN
+- RED
+- BUFF
+- YELLOW
+- ORANGE
+- nan
+--------------------------------------------------
+
+Column: stalk_shape (3 unique values)
+- TAPERING
+- ENLARGING
+- nan
+--------------------------------------------------
+
+Column: stalk_root (6 unique values)
+- BULBOUS
+- CLUB
+- ROOTED
+- EQUAL
+- ?
+- nan
+--------------------------------------------------
+
+Column: stalk_surface_above_ring (5 unique values)
+- SMOOTH
+- FIBROUS
+- SILKY
+- SCALY
+- nan
+--------------------------------------------------
+
+Column: stalk_surface_below_ring (5 unique values)
+- SMOOTH
+- SCALY
+- FIBROUS
+- SILKY
+- nan
+--------------------------------------------------
+
+Column: stalk_color_above_ring (10 unique values)
+- WHITE
+- PINK
+- GRAY
+- BUFF
+- BROWN
+- RED
+- CINNAMON
+- YELLOW
+- ORANGE
+- nan
+--------------------------------------------------
+
+Column: stalk_color_below_ring (10 unique values)
+- WHITE
+- PINK
+- GRAY
+- BUFF
+- BROWN
+- RED
+- YELLOW
+- CINNAMON
+- ORANGE
+- nan
+--------------------------------------------------
+
+Column: veil_type (2 unique values)
+- PARTIAL
+- nan
+--------------------------------------------------
+
+Column: veil_color (5 unique values)
+- WHITE
+- YELLOW
+- ORANGE
+- BROWN
+- nan
+--------------------------------------------------
+
+Column: ring_number (4 unique values)
+- ONE
+- TWO
+- NONE
+- nan
+--------------------------------------------------
+
+Column: ring_type (6 unique values)
+- PENDANT
+- EVANESCENT
+- LARGE
+- FLARING
+- NONE
+- nan
+--------------------------------------------------
+
+Column: spore_print_number (10 unique values)
+- PURPLE
+- BROWN
+- BLACK
+- CHOCOLATE
+- GREEN
+- WHITE
+- YELLOW
+- ORANGE
+- BUFF
+- nan
+--------------------------------------------------
+
+Column: population (7 unique values)
+- SEVERAL
+- SCATTERED
+- NUMEROUS
+- SOLITARY
+- ABUNDANT
+- CLUSTERED
+- nan
+--------------------------------------------------
+
+Column: habitat (8 unique values)
+- WOODS
+- MEADOWS
+- GRASSES
+- PATHS
+- URBAN
+- LEAVES
+- WASTE
+- nan
+--------------------------------------------------

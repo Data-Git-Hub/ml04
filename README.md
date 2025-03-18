@@ -1,7 +1,7 @@
 # ml04
 
 ## Introduction
-TBD. <br>
+The objective of the Mushroom Classification problem is to predict whether a mushroom is edible or poisonous based on its physical and chemical characteristics. The dataset includes descriptions of 23 species of gilled mushrooms from the Agaricus and Lepiota families. These mushrooms are classified as definitely edible or definitely poisonous (including those with unknown edibility, which were grouped into the poisonous category). <br>
 
 ## Overview
 Businesses and organizations must understand the relationships between different factors to make better decisions. <br>
@@ -31,14 +31,15 @@ A Neural Network is inspired by how human brains process information. It consist
 
 Strengths: Can handle complex patterns and non-linear relationships.<br>
 Weaknesses: Needs more data and tuning to avoid overfitting.<br>
-When trying to classify data, using three (or more) models can help:<br>
 
+
+When trying to classify data, using three (or more) models can help:<br>
 Decision Trees illustrate how individual features contribute to classification.<br>
 SVMs are good at finding complex boundaries.<br>
 Neural Networks are good at learning patterns from complex data. <br>
 
 ## Dataset 
-TBD. <br>.
+UCI Machine Learning Repository Link: https://archive.ics.uci.edu/dataset/73/mushroom <br>
 
 ---
 
@@ -108,6 +109,8 @@ Contributors names and contact info <br>
 @github.com/Data-Git-Hub <br>
 
 ## Version History
+- P4 Init - 0.4 - Add Intro, Data folder, dataset, dataset convert .csv
+- P4 Init - 0.3
 - P4 Init - 0.2 - Add README.md framework
 - P4 Init - O.1 - Add requirements.txt
 - P4 Init - 0.0 <br>
