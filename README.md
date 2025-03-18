@@ -109,6 +109,7 @@ Contributors names and contact info <br>
 @github.com/Data-Git-Hub <br>
 
 ## Version History
+- P4 Sect - 2.5
 - P4 Sect - 2.4
 - P4 Sect - 2.3 - Rearrange Section 2
 - P4 Sect - 2.2
