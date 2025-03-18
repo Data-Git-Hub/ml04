@@ -109,6 +109,8 @@ Contributors names and contact info <br>
 @github.com/Data-Git-Hub <br>
 
 ## Version History
+- P4 Sect - 2.4
+- P4 Sect - 2.3 - Rearrange Section 2
 - P4 Sect - 2.2
 - P4 Sect - 2.1
 - P4 Sect - 1.2 - Delete files from Data folder, Add Repo Link to UCI, Mod README.md 
