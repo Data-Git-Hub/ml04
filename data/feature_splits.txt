@@ -1,0 +1,256 @@
+
+Feature Set: odor
+X_train Shape: (6095, 7), X_test Shape: (1524, 7)
+==================================================
+
+Feature Set: gill-size
+X_train Shape: (6095, 1), X_test Shape: (1524, 1)
+==================================================
+
+Feature Set: spore-print-color
+X_train Shape: (6095, 3), X_test Shape: (1524, 3)
+==================================================
+
+Feature Set: ring-type
+X_train Shape: (6095, 2), X_test Shape: (1524, 2)
+==================================================
+
+Feature Set: stalk-shape
+X_train Shape: (6095, 1), X_test Shape: (1524, 1)
+==================================================
+
+Feature Set: bruises
+X_train Shape: (6095, 1), X_test Shape: (1524, 1)
+==================================================
+
+Feature Set: cap-color
+X_train Shape: (6095, 6), X_test Shape: (1524, 6)
+==================================================
+
+Feature Set: odor_gill-size
+X_train Shape: (6095, 8), X_test Shape: (1524, 8)
+==================================================
+
+Feature Set: odor_spore-print-color
+X_train Shape: (6095, 10), X_test Shape: (1524, 10)
+==================================================
+
+Feature Set: odor_ring-type
+X_train Shape: (6095, 9), X_test Shape: (1524, 9)
+==================================================
+
+Feature Set: odor_stalk-shape
+X_train Shape: (6095, 8), X_test Shape: (1524, 8)
+==================================================
+
+Feature Set: odor_bruises
+X_train Shape: (6095, 8), X_test Shape: (1524, 8)
+==================================================
+
+Feature Set: odor_cap-color
+X_train Shape: (6095, 13), X_test Shape: (1524, 13)
+==================================================
+
+Feature Set: gill-size_spore-print-color
+X_train Shape: (6095, 4), X_test Shape: (1524, 4)
+==================================================
+
+Feature Set: gill-size_ring-type
+X_train Shape: (6095, 3), X_test Shape: (1524, 3)
+==================================================
+
+Feature Set: gill-size_stalk-shape
+X_train Shape: (6095, 2), X_test Shape: (1524, 2)
+==================================================
+
+Feature Set: gill-size_bruises
+X_train Shape: (6095, 2), X_test Shape: (1524, 2)
+==================================================
+
+Feature Set: gill-size_cap-color
+X_train Shape: (6095, 7), X_test Shape: (1524, 7)
+==================================================
+
+Feature Set: spore-print-color_ring-type
+X_train Shape: (6095, 5), X_test Shape: (1524, 5)
+==================================================
+
+Feature Set: spore-print-color_stalk-shape
+X_train Shape: (6095, 4), X_test Shape: (1524, 4)
+==================================================
+
+Feature Set: spore-print-color_bruises
+X_train Shape: (6095, 4), X_test Shape: (1524, 4)
+==================================================
+
+Feature Set: spore-print-color_cap-color
+X_train Shape: (6095, 9), X_test Shape: (1524, 9)
+==================================================
+
+Feature Set: ring-type_stalk-shape
+X_train Shape: (6095, 3), X_test Shape: (1524, 3)
+==================================================
+
+Feature Set: ring-type_bruises
+X_train Shape: (6095, 3), X_test Shape: (1524, 3)
+==================================================
+
+Feature Set: ring-type_cap-color
+X_train Shape: (6095, 8), X_test Shape: (1524, 8)
+==================================================
+
+Feature Set: stalk-shape_bruises
+X_train Shape: (6095, 2), X_test Shape: (1524, 2)
+==================================================
+
+Feature Set: stalk-shape_cap-color
+X_train Shape: (6095, 7), X_test Shape: (1524, 7)
+==================================================
+
+Feature Set: bruises_cap-color
+X_train Shape: (6095, 7), X_test Shape: (1524, 7)
+==================================================
+
+Feature Set: odor_gill-size_spore-print-color
+X_train Shape: (6095, 11), X_test Shape: (1524, 11)
+==================================================
+
+Feature Set: odor_gill-size_ring-type
+X_train Shape: (6095, 10), X_test Shape: (1524, 10)
+==================================================
+
+Feature Set: odor_gill-size_stalk-shape
+X_train Shape: (6095, 9), X_test Shape: (1524, 9)
+==================================================
+
+Feature Set: odor_gill-size_bruises
+X_train Shape: (6095, 9), X_test Shape: (1524, 9)
+==================================================
+
+Feature Set: odor_gill-size_cap-color
+X_train Shape: (6095, 14), X_test Shape: (1524, 14)
+==================================================
+
+Feature Set: odor_spore-print-color_ring-type
+X_train Shape: (6095, 12), X_test Shape: (1524, 12)
+==================================================
+
+Feature Set: odor_spore-print-color_stalk-shape
+X_train Shape: (6095, 11), X_test Shape: (1524, 11)
+==================================================
+
+Feature Set: odor_spore-print-color_bruises
+X_train Shape: (6095, 11), X_test Shape: (1524, 11)
+==================================================
+
+Feature Set: odor_spore-print-color_cap-color
+X_train Shape: (6095, 16), X_test Shape: (1524, 16)
+==================================================
+
+Feature Set: odor_ring-type_stalk-shape
+X_train Shape: (6095, 10), X_test Shape: (1524, 10)
+==================================================
+
+Feature Set: odor_ring-type_bruises
+X_train Shape: (6095, 10), X_test Shape: (1524, 10)
+==================================================
+
+Feature Set: odor_ring-type_cap-color
+X_train Shape: (6095, 15), X_test Shape: (1524, 15)
+==================================================
+
+Feature Set: odor_stalk-shape_bruises
+X_train Shape: (6095, 9), X_test Shape: (1524, 9)
+==================================================
+
+Feature Set: odor_stalk-shape_cap-color
+X_train Shape: (6095, 14), X_test Shape: (1524, 14)
+==================================================
+
+Feature Set: odor_bruises_cap-color
+X_train Shape: (6095, 14), X_test Shape: (1524, 14)
+==================================================
+
+Feature Set: gill-size_spore-print-color_ring-type
+X_train Shape: (6095, 6), X_test Shape: (1524, 6)
+==================================================
+
+Feature Set: gill-size_spore-print-color_stalk-shape
+X_train Shape: (6095, 5), X_test Shape: (1524, 5)
+==================================================
+
+Feature Set: gill-size_spore-print-color_bruises
+X_train Shape: (6095, 5), X_test Shape: (1524, 5)
+==================================================
+
+Feature Set: gill-size_spore-print-color_cap-color
+X_train Shape: (6095, 10), X_test Shape: (1524, 10)
+==================================================
+
+Feature Set: gill-size_ring-type_stalk-shape
+X_train Shape: (6095, 4), X_test Shape: (1524, 4)
+==================================================
+
+Feature Set: gill-size_ring-type_bruises
+X_train Shape: (6095, 4), X_test Shape: (1524, 4)
+==================================================
+
+Feature Set: gill-size_ring-type_cap-color
+X_train Shape: (6095, 9), X_test Shape: (1524, 9)
+==================================================
+
+Feature Set: gill-size_stalk-shape_bruises
+X_train Shape: (6095, 3), X_test Shape: (1524, 3)
+==================================================
+
+Feature Set: gill-size_stalk-shape_cap-color
+X_train Shape: (6095, 8), X_test Shape: (1524, 8)
+==================================================
+
+Feature Set: gill-size_bruises_cap-color
+X_train Shape: (6095, 8), X_test Shape: (1524, 8)
+==================================================
+
+Feature Set: spore-print-color_ring-type_stalk-shape
+X_train Shape: (6095, 6), X_test Shape: (1524, 6)
+==================================================
+
+Feature Set: spore-print-color_ring-type_bruises
+X_train Shape: (6095, 6), X_test Shape: (1524, 6)
+==================================================
+
+Feature Set: spore-print-color_ring-type_cap-color
+X_train Shape: (6095, 11), X_test Shape: (1524, 11)
+==================================================
+
+Feature Set: spore-print-color_stalk-shape_bruises
+X_train Shape: (6095, 5), X_test Shape: (1524, 5)
+==================================================
+
+Feature Set: spore-print-color_stalk-shape_cap-color
+X_train Shape: (6095, 10), X_test Shape: (1524, 10)
+==================================================
+
+Feature Set: spore-print-color_bruises_cap-color
+X_train Shape: (6095, 10), X_test Shape: (1524, 10)
+==================================================
+
+Feature Set: ring-type_stalk-shape_bruises
+X_train Shape: (6095, 4), X_test Shape: (1524, 4)
+==================================================
+
+Feature Set: ring-type_stalk-shape_cap-color
+X_train Shape: (6095, 9), X_test Shape: (1524, 9)
+==================================================
+
+Feature Set: ring-type_bruises_cap-color
+X_train Shape: (6095, 9), X_test Shape: (1524, 9)
+==================================================
+
+Feature Set: stalk-shape_bruises_cap-color
+X_train Shape: (6095, 8), X_test Shape: (1524, 8)
+==================================================
+
+Feature Set: odor_gill-size_spore-print-color_ring-type_stalk-shape_bruises_cap-color
+X_train Shape: (6095, 21), X_test Shape: (1524, 21)
+==================================================

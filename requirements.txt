@@ -135,7 +135,7 @@ ipykernel
 ipywidgets
 
 # JupyterLab for an interactive development environment
-# jupyterlab
+jupyterlab
 
 # PyArrow for efficient in-memory data processing
 # pyarrow
@@ -219,3 +219,4 @@ tabulate
 ucimlrepo
 
 itertools
+joblibs
