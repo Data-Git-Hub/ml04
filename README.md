@@ -64,23 +64,17 @@ Start your notebook professionally with:
 Machine learning projects follow a structured approach.
 We will use this approach throughout the course. 
 
-### Section 1: Load and Explore the Data
+### Section 1: Import and Inspect the Data
 
 ### Section 2. Data Exploration and Preparation
 
 ### Section 3. Feature Selection and Justification
 
-### Section 4. Train a Classification Model (Decision Tree)
+### Section 4. Train a Model (Classification: Decision Tree, Random Forest, Logistic Regression)
 
-### Section 5. Compare Alternative Models (SVC, NN)
+### Section 5. Improve the Model
 
 ### Section 6. Final Thoughts & Insights
-
-### Section 7:
-
-| Model Type           | Case   | Features Used            | Accuracy   | Precision   | Recall   | F1-Score   | Notes   |
-|:---------------------|:-------|:-------------------------|:-----------|:------------|:---------|:-----------|:--------|
-TBD.
 ---
 
 ## README.md (Required)
@@ -98,10 +92,10 @@ If starting with an assignment README, remove the parts you do not need to prese
 
 Verify your repository contains:
 
-- [ ] Useful .gitignore (that keeps .venv out of GitHub)
-- [ ] Professional Jupyter Notebook with numbered sections   
-- [ ] Useful README.md
-- [ ] Useful requirements.txt
+- [x] Useful .gitignore (that keeps .venv out of GitHub)
+- [x] Professional Jupyter Notebook with numbered sections   
+- [x] Useful README.md
+- [x] Useful requirements.txt
 
 ## Authors
 
@@ -109,6 +103,7 @@ Contributors names and contact info <br>
 @github.com/Data-Git-Hub <br>
 
 ## Version History
+- P4 Sect - 6.1
 - P4 Sect - 6.0
 - P4 Sect - 5.0
 - P4 Sect - 4.1 
